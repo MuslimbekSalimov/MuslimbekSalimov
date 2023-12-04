@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuslimbekSalimov
+- 👋 Hi, I’m Muslimbek
 - 👀 I’m interested in ...Enginer
 - 🌱 I’m currently learning ...Frontend
 - 💞️ I’m looking to collaborate on ...TenX
